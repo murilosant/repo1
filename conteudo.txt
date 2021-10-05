@@ -1,2 +1,6 @@
 Ola meu nome é murilo estou fazendo teste 2
+<<<<<<< HEAD
 nova linha de teste
+=======
+vamos para o teste 3
+>>>>>>> sprint1
